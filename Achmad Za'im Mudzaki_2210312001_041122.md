@@ -2,18 +2,18 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |   Naila Afriani    |
-|2.| NIM        |   2210312006    |
-|3. |Link github |  https://github.com/nailaafri    |
-|4.| Link Edabit |    https://edabit.com/user/ixYjaiveBSxSAr4hL  |
-|5|Exp Edabit   |    75 XP   |
-|6| Link Codewars| https://www.codewars.com/users/nailaafri     |
+|1. |Nama     |   Achmad Za'im Mudzaki    |
+|2.| NIM        |   2210312001    |
+|3. |Link github |  https://github.com/zaimudzaki    |
+|4.| Link Edabit |    https://edabit.com/user/26fFTvS3vzuWg4jum  |
+|5|Exp Edabit   |    50 XP   |
+|6| Link Codewars| https://www.codewars.com/users/zaimudzaki     |
 |7| Level Jyu Codewars| 7 |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
 `
-Naila Afriani_2210312006_tanggal(20/08/22)` 
+Achmad Za'im Mudzaki_2210312001_tanggal(04/12/22)` 
 
 *Berikut ini merupakan file markdown <br/> tipe file ini digunakan untuk menuliskan*
 1. Dokumentasi aplikasi

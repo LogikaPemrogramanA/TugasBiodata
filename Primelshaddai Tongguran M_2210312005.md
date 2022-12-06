@@ -8,12 +8,12 @@
 |4.| Link Edabit |   https://edabit.com/user/PQvWYK54qZAg6sBTf   |
 |5|Exp Edabit   |   75   |
 |6| Link Codewars|  https://www.codewars.com/users/pprimel    |
-|7| Level Jyu Codewars| 8kyu |
+|7| Level Jyu Codewars| 7kyu |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
 `
-nama_nim_tanggal(dd/mm/yy)` 
+Primelshaddai Tongguran Manurung(06/12/2022)` 
 
 *Berikut ini merupakan file markdown <br/> tipe file ini digunakan untuk menuliskan*
 1. Dokumentasi aplikasi

@@ -2,8 +2,8 @@
 ----------------------------------------
 |No | Data  | Isian|
 |---|:-------:|------:|
-|1. |Nama     |Alvredo Nduru       |
-|2.| NIM        |2210312014       |
+|1. |Nama     |Cecilia Tiovana Br Sitepu      |
+|2.| NIM        |2110312070     |
 |3. |Link github |https://github.com/alvredonduru      |
 |4.| Link Edabit |https://edabit.com/user/CoS8Jym7e65eLwSCN      |
 |5|Exp Edabit   |75      |
